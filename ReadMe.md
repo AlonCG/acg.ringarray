@@ -9,3 +9,5 @@ A few things attempted:
 - Used the code coverage tools available to Visual Studio.
 
 As usual ... comments and criticism are welcome.
+
+Mentioned in my Blog Post: [The Continuing Saga](https://blog.yetalapp.com/the-continuing-saga)!
